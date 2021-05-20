@@ -1,0 +1,9 @@
+Dockerfile
+.dockerignore
+.gitignore
+README.md
+
+.circleci
+.github
+build
+node_modules
